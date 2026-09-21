@@ -4,7 +4,7 @@ An automated pipeline for producing narrated, subtitled short-form videos - from
 
 **Author:** Engr Braandon
 
-![](media/ee70810bb9247aabfba5fbff02b8cdf6.jpeg)
+![Pipeline overview](Video_production_pipeline_flowch…_20260921211754.jpeg)
 
 ***
 
